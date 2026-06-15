@@ -35,9 +35,9 @@ export interface Match {
 export const WEEKLY_MATCHES: Match[] = [
   {
     id: "m1",
-    home: "South Korea",
-    away: "Czech Republic",
-    kickoff: "2026-06-12T02:00:00Z", // Fri 12 Jun 2026, 03:00 WAT
+    home: "Czech Republic",
+    away: "South Africa",
+    kickoff: "2026-06-18T16:00:00Z", // Fri 12 Jun 2026, 03:00 WAT
     stage: "Group Stage",
   },
   {
