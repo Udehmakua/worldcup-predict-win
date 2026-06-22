@@ -19,7 +19,7 @@
 
 export const PREDICTIONS_ENABLED = true;
 
-export const CURRENT_WEEK = 2;
+export const CURRENT_WEEK = 3;
 export const CURRENT_YEAR = 2026;
 
 export type Outcome = "HOME" | "DRAW" | "AWAY";
@@ -35,37 +35,37 @@ export interface Match {
 export const WEEKLY_MATCHES: Match[] = [
   {
     id: "m1",
-    home: "Czech Republic",
-    away: "South Africa",
-    kickoff: "2026-06-18T16:00:00Z", // Fri 18 Jun 2026, 17:00 WAT
+    home: "Switzerland",
+    away: "Canada",
+    kickoff: "2026-06-25T18:00:00Z", // Fri 25 Jun 2026, 19:00 WAT
     stage: "Group Stage",
   },
   {
     id: "m2",
-    home: "Mexico",
-    away: "South Korea",
-    kickoff: "2026-06-19T01:00:00Z", // Sat 19 Jun 2026, 02:00 WAT
+    home: "Japan",
+    away: "Sweden",
+    kickoff: "2026-06-25T23:00:00Z", // Sat 19 Jun 2026, 02:00 WAT
     stage: "Group Stage",
   },
   {
     id: "m3",
-    home: "Scotland",
-    away: "Morocco",
-    kickoff: "2026-06-19T22:00:00Z", // Sun 19 Jun 2026, 23:00 WAT
+    home: "Paraguay",
+    away: "Australia",
+    kickoff: "2026-06-26T02:00:00Z", // Sun 19 Jun 2026, 23:00 WAT
     stage: "Group Stage",
   },
   {
     id: "m4",
-    home: "Turkiye",
-    away: "Paraguay",
-    kickoff: "2026-06-20T03:00:00Z", // Mon 20 Jun 2026, 04:00 WAT
+    home: "Cape Verde",
+    away: "Saudi Arabia",
+    kickoff: "2026-06-27T00:00:00Z", // Mon 20 Jun 2026, 04:00 WAT
     stage: "Group Stage",
   },
   {
     id: "m5",
-    home: "Norway",
-    away: "Senegal",
-    kickoff: "2026-06-23T00:00:00Z", // Mon 15 Jun 2026, 03:00 WAT
+    home: "Algeria",
+    away: "Austria",
+    kickoff: "2026-06-28T02:00:00Z", // Mon 15 Jun 2026, 03:00 WAT
     stage: "Group Stage",
   },
 ];
