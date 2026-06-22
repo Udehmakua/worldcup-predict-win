@@ -37,7 +37,7 @@ export const WEEKLY_MATCHES: Match[] = [
     id: "m1",
     home: "Switzerland",
     away: "Canada",
-    kickoff: "2026-06-25T18:00:00Z", // Fri 25 Jun 2026, 19:00 WAT
+    kickoff: "2026-06-25T20:00:00Z", // Fri 25 Jun 2026, 19:00 WAT
     stage: "Group Stage",
   },
   {
