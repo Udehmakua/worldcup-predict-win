@@ -19,7 +19,7 @@
 
 export const PREDICTIONS_ENABLED = true;
 
-export const CURRENT_WEEK = 1;
+export const CURRENT_WEEK = 4;
 export const CURRENT_YEAR = 2026;
 
 // Legacy outcome type — kept for any old imports. New flow uses string answers.
@@ -42,7 +42,7 @@ export const WEEKLY_QUESTIONS: Question[] = [
     fixture: "Spain vs Austria",
     text: "Will there be a goal scored in the first 30 minutes (00:00–29:59)?",
     type: "YES_NO",
-    kickoff: "2026-06-12T02:00:00Z",
+    kickoff: "2026-07-02T19:00:00Z",
     stage: "Group Stage",
   },
   {
@@ -50,31 +50,31 @@ export const WEEKLY_QUESTIONS: Question[] = [
     fixture: "Switzerland vs Algeria",
     text: "Will both teams score a goal (90 mins only)?",
     type: "YES_NO",
-    kickoff: "2026-06-12T19:00:00Z",
+    kickoff: "2026-07-03T03:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q3",
-    fixture: "Spain vs Austria",
-    text: "Will Spain win to nil (90 mins only)?",
+    fixture: "Portugal vs Croatia",
+    text: "Will both teams score a goal (90 mins only)?",
     type: "YES_NO",
-    kickoff: "2026-06-12T02:00:00Z",
+    kickoff: "2026-07-02T23:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q4",
-    fixture: "Portugal vs Croatia",
-    text: "Will both teams score a goal (90 mins only)?",
+    fixture: "Spain vs Austria",
+    text: "Will Spain win to nil (90 mins only)? Yes/No?",
     type: "YES_NO",
-    kickoff: "2026-06-13T19:00:00Z",
+    kickoff: "2026-07-02T19:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q5",
     fixture: "Portugal vs Croatia",
-    text: "Who will get a red card first?",
-    type: "SHORT_TEXT",
-    kickoff: "2026-06-13T19:00:00Z",
+    text: "Will there be over 8.5 corners in the match (90 mins only)?",
+    type: "YES_NO",
+    kickoff: "2026-07-02T23:00:00Z",
     stage: "Group Stage",
   },
 ];
