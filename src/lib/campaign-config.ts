@@ -19,7 +19,7 @@
 
 export const PREDICTIONS_ENABLED = true;
 
-export const CURRENT_WEEK = 4;
+export const CURRENT_WEEK = 5;
 export const CURRENT_YEAR = 2026;
 
 // Legacy outcome type — kept for any old imports. New flow uses string answers.
@@ -39,42 +39,42 @@ export interface Question {
 export const WEEKLY_QUESTIONS: Question[] = [
   {
     id: "q1",
-    fixture: "Spain vs Austria",
-    text: "Will there be a goal scored in the first 30 minutes (00:00–29:59)?",
+    fixture: "Spain vs Belgium",
+    text: "Will both teams score in the match? (90 mins)",
     type: "YES_NO",
-    kickoff: "2026-07-02T19:00:00Z",
+    kickoff: "2026-07-10T19:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q2",
-    fixture: "Switzerland vs Algeria",
-    text: "Will both teams score a goal (90 mins only)?",
+    fixture: "Spain vs Belgium",
+    text: "Will Lamine Yamal score or assist?",
     type: "YES_NO",
-    kickoff: "2026-07-03T03:00:00Z",
+    kickoff: "2026-07-10T19:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q3",
-    fixture: "Portugal vs Croatia",
-    text: "Will both teams score a goal (90 mins only)?",
+    fixture: "Norway vs England",
+    text: "Will there be over 2.5 goals in the match? (90 mins)?",
     type: "YES_NO",
-    kickoff: "2026-07-02T23:00:00Z",
+    kickoff: "2026-07-11T21:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q4",
-    fixture: "Spain vs Austria",
-    text: "Will Spain win to nil (90 mins only)? Yes/No?",
+    fixture: "Norway vs England",
+    text: "Will England win the match? (90 mins)",
     type: "YES_NO",
-    kickoff: "2026-07-02T19:00:00Z",
+    kickoff: "2026-07-11T21:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q5",
-    fixture: "Portugal vs Croatia",
-    text: "Will there be over 8.5 corners in the match (90 mins only)?",
+    fixture: "Norway vs England",
+    text: "Will there be over 9.5 corners in the match? (90 mins)?",
     type: "YES_NO",
-    kickoff: "2026-07-02T23:00:00Z",
+    kickoff: "2026-07-11T21:00:00Z",
     stage: "Group Stage",
   },
 ];
