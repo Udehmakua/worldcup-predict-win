@@ -17,7 +17,7 @@
  * prediction section entirely (e.g. between campaigns).
  */
 
-export const PREDICTIONS_ENABLED = true;
+export const PREDICTIONS_ENABLED = false;
 
 export const CURRENT_WEEK = 5;
 export const CURRENT_YEAR = 2026;
