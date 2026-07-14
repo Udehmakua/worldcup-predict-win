@@ -271,10 +271,12 @@ function PredictionsClosed() {
     <section id="predict" className="scroll-mt-20 px-4 py-16">
       <div className="mx-auto max-w-2xl rounded-xl border border-border bg-card p-8 text-center">
         <h2 className="font-display text-2xl font-extrabold uppercase">
-          Predictions are closed
+          Predictions Open on Thursday
         </h2>
+
         <p className="mt-2 text-sm text-muted-foreground">
-          Check back next week for fresh World Cup matches.
+          Check back on Thursday to submit your predictions for this week’s
+          selected matches.
         </p>
       </div>
     </section>
