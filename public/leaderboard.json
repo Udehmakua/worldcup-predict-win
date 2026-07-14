@@ -1,219 +1,135 @@
 [
   {
-    "user_id": "4607912",
-    "correct_predictions": 3,
-    "stake": 130799,
-    "rank": 1,
-    "user_id_display": "46***12"
-  },
-  {
-    "user_id": "8202009",
+    "user_id": "1427120",
     "correct_predictions": 4,
-    "stake": 525500,
+    "stake": 113393,
+    "rank": 1,
+    "user_id_display": "14***20"
+  },
+  {
+    "user_id": "430593",
+    "correct_predictions": 4,
+    "stake": 120181,
     "rank": 2,
-    "user_id_display": "82***09"
+    "user_id_display": "43***93"
   },
   {
-    "user_id": "13493783",
-    "correct_predictions": 3,
-    "stake": 909100,
+    "user_id": "13467122",
+    "correct_predictions": 4,
+    "stake": 135982,
     "rank": 3,
-    "user_id_display": "13***83"
+    "user_id_display": "13***22"
   },
   {
-    "user_id": "2579774",
+    "user_id": "11103531",
     "correct_predictions": 3,
-    "stake": 1015573,
+    "stake": 140966,
     "rank": 4,
-    "user_id_display": "25***74"
+    "user_id_display": "11***31"
   },
   {
-    "user_id": "778817",
+    "user_id": "8478945",
     "correct_predictions": 3,
-    "stake": 5254656,
+    "stake": 145284,
     "rank": 5,
-    "user_id_display": "77***17"
+    "user_id_display": "84***45"
+  },
+  {
+    "user_id": "3149290",
+    "correct_predictions": 3,
+    "stake": 184000,
+    "rank": 6,
+    "user_id_display": "31***90"
+  },
+  {
+    "user_id": "8317158",
+    "correct_predictions": 3,
+    "stake": 185500,
+    "rank": 7,
+    "user_id_display": "83***58"
+  },
+  {
+    "user_id": "545692",
+    "correct_predictions": 3,
+    "stake": 219700,
+    "rank": 8,
+    "user_id_display": "54***92"
   },
   {
     "user_id": "8380217",
     "correct_predictions": 3,
-    "stake": 451152,
-    "rank": 6,
+    "stake": 244235,
+    "rank": 9,
     "user_id_display": "83***17"
+  },
+  {
+    "user_id": "4326789",
+    "correct_predictions": 4,
+    "stake": 257540,
+    "rank": 10,
+    "user_id_display": "43***89"
+  },
+  {
+    "user_id": "3231446",
+    "correct_predictions": 3,
+    "stake": 300000,
+    "rank": 11,
+    "user_id_display": "32***46"
   },
   {
     "user_id": "6298170",
     "correct_predictions": 3,
-    "stake": 460000,
-    "rank": 7,
+    "stake": 313000,
+    "rank": 12,
     "user_id_display": "62***70"
   },
   {
-    "user_id": "445153",
+    "user_id": "2559944",
     "correct_predictions": 4,
-    "stake": 196004,
-    "rank": 8,
-    "user_id_display": "44***53"
-  },
-  {
-    "user_id": "4554043",
-    "correct_predictions": 3,
-    "stake": 1160386,
-    "rank": 9,
-    "user_id_display": "45***43"
-  },
-  {
-    "user_id": "998062",
-    "correct_predictions": 5,
-    "stake": 209537,
-    "rank": 10,
-    "user_id_display": "99***62"
-  },
-  {
-    "user_id": "6797525",
-    "correct_predictions": 4,
-    "stake": 169680,
-    "rank": 11,
-    "user_id_display": "67***25"
-  },
-  {
-    "user_id": "763500",
-    "correct_predictions": 3,
-    "stake": 170300,
-    "rank": 12,
-    "user_id_display": "76***00"
-  },
-  {
-    "user_id": "10280580",
-    "correct_predictions": 4,
-    "stake": 101877,
+    "stake": 395288,
     "rank": 13,
-    "user_id_display": "10***80"
+    "user_id_display": "25***44"
   },
   {
-    "user_id": "8529960",
+    "user_id": "10729794",
     "correct_predictions": 3,
-    "stake": 101499,
+    "stake": 496319,
     "rank": 14,
-    "user_id_display": "85***60"
+    "user_id_display": "10***94"
   },
   {
-    "user_id": "1599269",
+    "user_id": "3505691",
     "correct_predictions": 3,
-    "stake": 800226,
+    "stake": 504082,
     "rank": 15,
-    "user_id_display": "15***69"
+    "user_id_display": "35***91"
   },
   {
-    "user_id": "5292642",
-    "correct_predictions": 4,
-    "stake": 318100,
+    "user_id": "791482",
+    "correct_predictions": 3,
+    "stake": 689752,
     "rank": 16,
-    "user_id_display": "52***42"
+    "user_id_display": "79***82"
   },
   {
-    "user_id": "3471863",
-    "correct_predictions": 3,
-    "stake": 152238,
+    "user_id": "13493783",
+    "correct_predictions": 5,
+    "stake": 744000,
     "rank": 17,
-    "user_id_display": "34***63"
+    "user_id_display": "13***83"
   },
   {
-    "user_id": "419417",
+    "user_id": "6771283",
     "correct_predictions": 3,
-    "stake": 973472,
+    "stake": 889600,
     "rank": 18,
-    "user_id_display": "41***17"
-  },
-  {
-    "user_id": "3386559",
-    "correct_predictions": 3,
-    "stake": 307194,
-    "rank": 19,
-    "user_id_display": "33***59"
-  },
-  {
-    "user_id": "3907577",
-    "correct_predictions": 3,
-    "stake": 155000,
-    "rank": 20,
-    "user_id_display": "39***77"
-  },
-  {
-    "user_id": "431408",
-    "correct_predictions": 3,
-    "stake": 640922,
-    "rank": 21,
-    "user_id_display": "43***08"
-  },
-  {
-    "user_id": "13196263",
-    "correct_predictions": 3,
-    "stake": 391482,
-    "rank": 22,
-    "user_id_display": "13***63"
-  },
-  {
-    "user_id": "4037156",
-    "correct_predictions": 3,
-    "stake": 306654,
-    "rank": 23,
-    "user_id_display": "40***56"
-  },
-  {
-    "user_id": "13467122",
-    "correct_predictions": 3,
-    "stake": 201528,
-    "rank": 24,
-    "user_id_display": "13***22"
-  },
-  {
-    "user_id": "1427120",
-    "correct_predictions": 4,
-    "stake": 119960,
-    "rank": 25,
-    "user_id_display": "14***20"
-  },
-  {
-    "user_id": "8606144",
-    "correct_predictions": 3,
-    "stake": 438600,
-    "rank": 26,
-    "user_id_display": "86***44"
-  },
-  {
-    "user_id": "9733737",
-    "correct_predictions": 3,
-    "stake": 309990,
-    "rank": 27,
-    "user_id_display": "97***37"
-  },
-  {
-    "user_id": "711392",
-    "correct_predictions": 3,
-    "stake": 290655,
-    "rank": 28,
-    "user_id_display": "71***92"
-  },
-  {
-    "user_id": "8642179",
-    "correct_predictions": 4,
-    "stake": 198266,
-    "rank": 29,
-    "user_id_display": "86***79"
-  },
-  {
-    "user_id": "6789645",
-    "correct_predictions": 4,
-    "stake": 350792,
-    "rank": 30,
-    "user_id_display": "67***45"
+    "user_id_display": "67***83"
   },
   {
     "user_id": "13491614",
-    "correct_predictions": 3,
-    "stake": 912000,
-    "rank": 31,
+    "correct_predictions": 5,
+    "stake": 960000,
+    "rank": 19,
     "user_id_display": "13***14"
   }
 ]
