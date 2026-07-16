@@ -19,7 +19,7 @@
 
 export const PREDICTIONS_ENABLED = false;
 
-export const CURRENT_WEEK = 5;
+export const CURRENT_WEEK = 6;
 export const CURRENT_YEAR = 2026;
 
 // Legacy outcome type — kept for any old imports. New flow uses string answers.
@@ -39,42 +39,42 @@ export interface Question {
 export const WEEKLY_QUESTIONS: Question[] = [
   {
     id: "q1",
-    fixture: "Spain vs Belgium",
-    text: "Will both teams score in the match? (90 mins)",
+    fixture: "Spain vs Argentina",
+    text: "Will Spain lift the World Cup trophy?",
     type: "YES_NO",
-    kickoff: "2026-07-10T19:00:00Z",
+    kickoff: "2026-07-19T19:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q2",
-    fixture: "Spain vs Belgium",
-    text: "Will Lamine Yamal score or assist?",
+    fixture: "Spain vs Argentina",
+    text: "Will both teams score? (90 mins)",
     type: "YES_NO",
-    kickoff: "2026-07-10T19:00:00Z",
+    kickoff: "2026-07-19T19:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q3",
-    fixture: "Norway vs England",
-    text: "Will there be over 2.5 goals in the match? (90 mins)?",
+    fixture: "Spain vs Argentina",
+    text: "Will there be over 7.5 shots on target in the match? (90 mins)",
     type: "YES_NO",
-    kickoff: "2026-07-11T21:00:00Z",
+    kickoff: "2026-07-19T19:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q4",
-    fixture: "Norway vs England",
-    text: "Will England win the match? (90 mins)",
+    fixture: "Spain vs Argentina",
+    text: "Will Lamine Yamal or Lionel Messi score a goal? (90 mins)",
     type: "YES_NO",
-    kickoff: "2026-07-11T21:00:00Z",
+    kickoff: "2026-07-19T19:00:00Z",
     stage: "Group Stage",
   },
   {
     id: "q5",
-    fixture: "Norway vs England",
-    text: "Will there be over 9.5 corners in the match? (90 mins)?",
+    fixture: "Spain vs Argentina",
+    text: "Will there be over 8.5 corners in the match? (90 mins)",
     type: "YES_NO",
-    kickoff: "2026-07-11T21:00:00Z",
+    kickoff: "2026-07-19T19:00:00Z",
     stage: "Group Stage",
   },
 ];
